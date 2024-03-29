@@ -1,6 +1,6 @@
-## Full Stack Web Challenge 1
+## Full Stack Web Challenge 2
 
-Welcome to the BCR (Binar Car Rental) Slicing Challenge 1 repository! This challenge aims to create a web page layout for BCR using CSS for styling.
+Welcome to the BCR (Binar Car Rental) Slicing Challenge 2 repository! This challenge aims to create a responsive web page layout for BCR using CSS.
 
 ### Technologies Used
 
