@@ -7,6 +7,7 @@ Welcome to the BCR (Binar Car Rental) Slicing Challenge 2 repository! This chall
 - **Tailwind CSS:** A utility-first CSS framework for creating custom designs quickly.
 - **jQuery:** A fast, small, and feature-rich JavaScript library for simplifying client-side scripting.
 - **Owl Carousel:** A touch-enabled jQuery plugin that lets you create beautiful responsive carousel sliders.
+- - **AOS:** Elevate your web design with AOS Animated Scroll Library.
 
 
 ### Getting Started
@@ -14,7 +15,7 @@ Welcome to the BCR (Binar Car Rental) Slicing Challenge 2 repository! This chall
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/resarisyan/binar-fsw-challenge-1.git
+git clone https://github.com/resarisyan/24001117-synrgy7-res-bcr-ch2.git
 ```
 
 2. **Navigate to the project directory:**
